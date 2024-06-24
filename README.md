@@ -44,11 +44,3 @@ Each script serves a specific purpose related to managing Google Sheets within a
 2. Navigate to "Extensions" > "Apps Script" and paste the script code.
 3. Save and run the script from the Apps Script editor.
 4. Adjust script parameters and configurations as needed for your use case.
-
-## Contributing
-
-Feel free to contribute to this repository by submitting pull requests or issues if you encounter any bugs or have suggestions for improvements.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.

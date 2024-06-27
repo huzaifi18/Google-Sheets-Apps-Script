@@ -1,8 +1,8 @@
 function onOpen() {
   var ui = SpreadsheetApp.getUi();
   ui.createMenu('File Slip Gaji Baru')
-      .addItem('Buat File Slip Gaji Baru', 'createEmployeeSheets')  // Adds menu item to download the sheet as PDF
-      .addToUi();  // Adds the menu to the spreadsheet UI
+      .addItem('Buat File Slip Gaji Baru', 'createEmployeeSheets')
+      .addToUi();
 }
 
 
